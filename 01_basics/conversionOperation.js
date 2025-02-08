@@ -17,8 +17,20 @@
 // 1 = true 0= true
 // "" = false  "name" = true
 
-let someNumber = 45
+// let someNumber = 45
 
-let booleanLog = String(someNumber)
-console.log(booleanLog);
+// let booleanLog = String(someNumber)
+// console.log(booleanLog);
 
+
+// **********operations***************
+
+let value = 3
+let negvalue = -value;
+// console.log(negvalue)
+// console.log(2+2)
+// console.log(2*2)
+// console.log(2-2)
+// console.log(2/2)
+// console.log(2%2)
+// console.log(2**3)
