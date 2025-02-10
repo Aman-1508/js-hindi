@@ -20,3 +20,17 @@ let isLoggedIn= false
 
 console.log(typeof undefined) //type undefined
 console.log(typeof object) //type object
+
+// primitive 
+// 7 types : string , number , boolean , null , undefined , symbol, BigInt
+
+// Reference (non primitve)
+
+// Array , Objects, Functions // datatype return- objects
+const heros =["skt","ironman", "captain","panther"]
+let myobj={
+    name: "Aman", age: 21, //key value pair
+}
+ const myFunction = function(){
+    console.log("HEllo World")
+ }
