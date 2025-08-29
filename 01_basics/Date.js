@@ -3,6 +3,10 @@
 //  console.log(myDate.toLocaleString());
 
 //  let myCreateDate = new Date(2023, 0 , 23)
- let myCreateDate = new Date(2023, 0 , 23 ,5,3)
+//  let myCreateDate = new Date(2023, 0 , 23 ,5,3)
 
- console.log(myCreateDate.toLocaleDateString());
+//  console.log(myCreateDate.toLocaleDateString());
+
+//  let mytimeStamp = Date.now()
+//  console.log(mytimeStamp);
+//  console.log(Math.floor(mytimeStamp/1000));
