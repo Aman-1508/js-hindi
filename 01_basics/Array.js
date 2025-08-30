@@ -30,3 +30,17 @@ start.shift();
 start.unshift("june");
 start.unshift("july");
 console.log(start);
+// aray work on references if you compare to different arrays it will give false you must copy the address
+
+const arr =[1 , 2, 3, 4];
+const g = 9.8;
+arr.push(5);
+console.log(arr);
+// we can change the elements but we cannot change the refernce with new array as array comes with the refernce for a const array.
+// Nested Array 
+let nums = [[1,2] , [2,3],[1,2,3]];
+console.log(nums[0].length);
+let ticTac =[['X','null','O'],['null','x','O'],['null','0','x']]
+console.log(ticTac);
+ticTac[0][1]='0';
+console.log(ticTac);
