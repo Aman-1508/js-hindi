@@ -70,3 +70,4 @@ for (const row of arr) {           // iterate over each row
     }
     console.log(); // new line after each row
 }
+// push 
